@@ -1,6 +1,6 @@
 # Fine-Tuning Gemma-2b for Data Science Question Generation
 
-![robot](assets/img/gemma_robot.png)
+![robot](assets/img/ft-terminal.png)
 
 
 This project details the process of fine-tuning the Gemma-2b language model to specialize in generating high-quality questions related to the fields of Data Science and Machine Learning. The primary goal is to enhance the model's performance on this specific, niche task.
